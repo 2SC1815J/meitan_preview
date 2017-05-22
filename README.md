@@ -7,12 +7,14 @@
 
 [明探]: http://www.meitan.j.u-tokyo.ac.jp/
 [Greasemonkey]: https://addons.mozilla.org/ja/firefox/addon/greasemonkey/
+[firefox]: https://www.mozilla.org/firefox/
 
 ## インストール方法
 
-1. このユーザスクリプトの利用には、[Greasemonkey]拡張機能がインストールされたFirefoxが必要です。
+1. このユーザスクリプトの利用には、[Greasemonkey]拡張機能がインストールされた[Firefox]が必要です。
 2. Greasemonkeyを初めてインストールした場合は、Firefoxを再起動してください。
-3. [インストール]リンクを左クリックすると、インストール確認ダイアログが表示されます。
+3. 以下の「インストール」リンクを左クリックすると、インストール確認ダイアログが表示されます。
+    - [インストール]
 
 [インストール]: https://github.com/2SC1815J/meitan_preview/raw/master/meitan_preview.user.js
 
