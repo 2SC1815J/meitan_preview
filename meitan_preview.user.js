@@ -3,8 +3,9 @@
 // @description 東京大学明治新聞雑誌文庫所蔵検索システム検索結果サムネイルのプレビュー
 // @author      2SC1815J
 // @released    2017-05-21
-// @license     MIT license
-// @namespace   https://twitter.com/2SC1815J
+// @license     MIT License
+// @namespace   https://github.com/2SC1815J
+// @homepageURL https://github.com/2SC1815J/meitan_preview
 // @include     http://www.meitan.j.u-tokyo.ac.jp/*
 // @require     https://gist.githubusercontent.com/BrockA/2625891/raw/9c97aa67ff9c5d56be34a55ad6c18a314e5eb548/waitForKeyElements.js
 // @version     0.1.1

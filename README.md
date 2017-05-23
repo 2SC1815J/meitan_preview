@@ -1,22 +1,19 @@
 # meitan_preview
 
-
-[明探]（東京大学明治新聞雑誌文庫所蔵検索システム）向けGreasemonkeyユーザスクリプト
+[明探]（東京大学明治新聞雑誌文庫所蔵検索システム）向けユーザスクリプト
 
 明探での検索結果に表示されるサムネイルにマウスを重ねると、より大きい画像でプレビューできるようになります。
 
 [明探]: http://www.meitan.j.u-tokyo.ac.jp/
-[Greasemonkey]: https://addons.mozilla.org/ja/firefox/addon/greasemonkey/
-[firefox]: https://www.mozilla.org/firefox/
+[Firefox]: https://www.mozilla.org/firefox/
+[Greasemonkey]: https://addons.mozilla.org/firefox/addon/greasemonkey/
 
 ## インストール方法
 
 1. このユーザスクリプトの利用には、[Greasemonkey]拡張機能がインストールされた[Firefox]が必要です。
 2. Greasemonkeyを初めてインストールした場合は、Firefoxを再起動してください。
-3. 以下の「インストール」リンクを左クリックすると、インストール確認ダイアログが表示されます。
-    - [インストール]
-
-[インストール]: https://github.com/2SC1815J/meitan_preview/raw/master/meitan_preview.user.js
+3. 以下のリンクをクリックすると、このユーザスクリプトのインストール確認が表示されます。
+    - [meitan_preview.user.js](https://github.com/2SC1815J/meitan_preview/raw/master/meitan_preview.user.js)
 
 ## 注意点
 
